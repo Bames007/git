@@ -5,6 +5,7 @@ class newClass extends StatefulWidget {
 
   @override
   State<newClass> createState() => _newClassState();
+  var t = 'yo';
 }
 
 class _newClassState extends State<newClass> {
