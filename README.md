@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Changed title of class
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
